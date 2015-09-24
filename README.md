@@ -8,8 +8,8 @@ The whole thing is completely insane and was built five years ago. There's littl
 |---|---|
 |UP arrow | Scroll window up   |
 |DOWN arrow   | Scroll window down   |
-|LEFT arrow   |   |
-|RIGHT arrow   |   |
+|LEFT arrow   | Scroll window left  |
+|RIGHT arrow   | Scroll window right  |
 |\   |Full stop   |
 |F   |Change fade rate   |
 |-   |Zoom out   |
@@ -39,5 +39,5 @@ The whole thing is completely insane and was built five years ago. There's littl
 |,   |Decrease universe mass (slow down time)   |
 |.   |Increase universe mass (speed up time)   |
 |M   |Set moon/object for guidance   |
-|192(?)| Turn off gudiance |
+|Keycode 192(?)| Turn off guidance |
 |G   |Toggle thrust guidance |
